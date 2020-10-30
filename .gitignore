@@ -131,3 +131,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 WeatherPy/config.py
+VacationPy/config2.py
