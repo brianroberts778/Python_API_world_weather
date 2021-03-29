@@ -1,4 +1,4 @@
-# python_api_world_weather
+# Python API World Weather & Vacation Selector
 
 **WeatherPy**
 Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. Utilizes a simple Python library and the OpenWeatherMap API to create a representative model of weather across world cities.
